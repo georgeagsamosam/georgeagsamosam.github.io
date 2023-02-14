@@ -1,0 +1,7 @@
+{
+  "name": "georgeagsamosam.github.io",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
